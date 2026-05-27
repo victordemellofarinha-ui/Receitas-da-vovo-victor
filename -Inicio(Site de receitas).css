@@ -1,0 +1,85 @@
+.Cabeçalho.inicio{
+background-color: rgb(255, 255, 255);
+}
+
+.menu{
+    display: flex;
+    gap: 30px;
+}
+
+.menu a{
+    color: #000000;
+    text-decoration: none;
+}
+
+body{
+    background-color: #292626;
+    color: #ffffff;
+}
+
+.Cabeçalho.inicio{
+    width: 100%;
+    color: black;
+}
+
+.Ingredientes.bolo.de.chocolate{
+    background-color: #ffffff;
+    width: 100%;
+    color: #000000;
+}
+
+.Modo.de.preparo.do.bolo.de.chocolate{
+    border: 1px solid #ffffff;
+}
+
+.Tudo.gostoso a{
+    color: #ffffff;
+}
+
+.Tudo.gostoso a:hover{
+    color: #16460b;
+}
+
+#hr1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: none;
+    height: 3px;
+    background: #ffffff;   
+}
+
+#Massa1{
+    font-weight: bold;
+}
+
+#Calda-cremosa{
+    font-weight: bold;
+}
+
+#Cobertura-de-brigadeiro{
+    font-weight: bold;
+}
+
+#ingredientes1{
+    font-weight: bold;
+}
+
+#Molho1{
+    font-weight: bold;
+}
+
+#Recheio1{
+    font-weight: bold;
+}
+
+.Rodapé{
+   color: #ffffff;
+ }
+
+ .Rodapé a{
+    color: #ffffff;
+ }
+
+ .Rodapé a:hover{
+    color: #16460b;
+ }

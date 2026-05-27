@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    gap: 30px;
+}
+
+.menu a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+body{
+    background-color: #000000;
+    color: white;
+}
